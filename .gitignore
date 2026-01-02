@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# LaTeX build files
+*.log
+*.aux
+*.out
+*.toc
+
+# macOS
+.DS_Store
