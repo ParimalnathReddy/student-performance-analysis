@@ -73,22 +73,6 @@ All analysis was performed using R and RMarkdown.
 - Performance consistency is not strongly influenced by extracurricular activities, internet access, or alcohol consumption
 - Results highlight areas for further educational research and policy consideration
 
-## Project Structure
-student-performance-analysis/
-├── README.md
-├── data/
-│   └── student-por.csv
-├── notebooks/
-│   ├── final.Rmd
-│   └── Untitled.Rmd
-├── reports/
-│   ├── Final_Project.pdf
-│   ├── 893_presentation.pdf
-│   ├── final.tex
-│   ├── final.log
-│   ├── final_1.tex
-│   └── final_1.log
-
 
 
 
