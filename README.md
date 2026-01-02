@@ -88,7 +88,8 @@ student-performance-analysis/
 │   ├── final.log
 │   ├── final_1.tex
 │   └── final_1.log
-└── figures/
+
+
 
 
 ## How to Reproduce
